@@ -3,8 +3,8 @@ import json
 import MySQLdb
 import sys
 import ssl
-import nlp
 from cgi import FieldStorage
+from analyzers import nlp
 from parsers.wiki import wiki
 from functions.calculator import calculator
 
