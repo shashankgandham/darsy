@@ -1,4 +1,4 @@
-# Darsy
+# Lumos
 
 ###INSTALLATION
 
